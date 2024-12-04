@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #787e62; /* Light Gray */
+    color: #333; /* Dark Gray */
+}
+
+.container {
+    background-color: #747070;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    margin: 20px auto; /* Reduced margin */
+    max-width: 80%; /* Responsive width */
+}
+
+/* Add more styles as needed for responsiveness and aesthetics */
+.btn-success {
+    background-color: #000000; /* Bootstrap green */
+}
+
+.btn-primary {
+    background-color: #070a0e; /* Bootstrap blue */
+}
+
+.bg-primary{
+    background-color: #060708 !important; /* Bootstrap blue */
+}
+
+/* Adjust colors as you like */
+.bg-dark {
+    background-color: #343a40; /* Dark gray from Bootstrap */
+}
+
+.text-white{
+    color: white !important;
+}
